@@ -1,0 +1,18 @@
+.listBtn{
+    background-color: #ffffff;
+    height: 3em;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border: 2px solid #7f5539;
+    margin-bottom: 2px;
+}
+
+.listBtn:hover{
+    background-color:#7f5539;
+    color: #ffffff;
+}

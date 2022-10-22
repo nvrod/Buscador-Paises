@@ -18,3 +18,10 @@ strong{
 .img-thumbnail{
     border-radius: 10%;
 }
+
+#divPais{
+    border-radius: 50px;
+background: #7f5539;
+box-shadow:  9px 9px 18px #5a3c28,
+             -9px -9px 18px #a46e4a;
+}

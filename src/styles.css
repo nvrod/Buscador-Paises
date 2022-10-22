@@ -8,23 +8,22 @@ html {
 body{
     background-image: url('./assets/mapa.png');
     background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 70em;
     height: 95vh;
-    padding: 2em;
+    display: flex;
+    justify-content: center;
     margin: 1em auto;
-    border-radius: 10px;
+    padding: 2em;
     background-repeat: no-repeat;
     opacity: .9;
     color: #121212;
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 600;
+    border-radius: 10px;
     background-blend-mode:color;
     background-color: rgba(0,0,0,.2);
     box-shadow:  9px 9px 18px #5a3c28,
-             -9px -9px 18px #786356;
+             -9px -9px 18px #4e3d31;
 }
 .small-flag {
     width: 50px;
